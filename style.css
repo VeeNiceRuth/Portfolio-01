@@ -1,0 +1,80 @@
+#logo {
+    font-family: 'Libre Barcode 39 Text', cursive;
+    color: black;
+    text-decoration: none;
+    font-size: 60px;
+    padding: auto;
+}
+
+.row {
+    margin-top: 0%;
+    margin-bottom: 0%;
+    
+}
+#masthead {
+    padding: auto;
+    width: 550px;
+    height: 90;
+    margin-bottom: 30px;
+}
+.nav {
+    padding-left: 0px;
+    margin-left: 0px;
+    width: 400px;
+    float: right;
+
+   
+}
+p.clear {
+    clear: both;
+  }
+h1 {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.container {
+    padding: 100px;
+    margin-left: 5px;
+}
+
+a {
+    color: black;
+    font-family: 'Source Sans Pro', sans-serif;
+    
+}
+
+body {
+    opacity:0;
+    transition: opacity 2s;
+    -webkit-transition: opacity 2s; /* Safari */
+    background-image: url(images/1lJsmOW3TO+FODeLrqVfTQ_thumb_1f03.jpg);
+
+}
+
+img {
+    height: 350px;
+    width: 250px;
+   margin-left: 50%;
+ 
+}
+
+#portfolioImages {
+    height: 185px;
+    width: 285px;
+}
+
+form {
+    background: white;
+    padding: 50px;
+    width: 300px;
+    margin-left: 300px;
+    
+}
+
+#ruthDrawing {
+    width: 300px;
+    padding-right: 55px;
+}
+
+
+  
